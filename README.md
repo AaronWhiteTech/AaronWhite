@@ -10,7 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AaronWhiteTech/configure-ad)
   
 
-Ticketing lifecycle
+Ticketing lifecycle(ServiceNow) 
 [Servicenow ticket lifecycle](https://github.com/AaronWhiteTech/ServiceNow)
 
+
+Microsoft 365 overview
 [microsoft365 general overview](https://github.com/AaronWhiteTech/Microsoft-365)
